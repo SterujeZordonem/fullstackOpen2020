@@ -1,0 +1,9 @@
+title exercise6
+
+browser->server: HTTP POST https://fullstack-exampleapp.herokuapp.com/new_note_spa
+
+note over server:
+Add data to the server
+end note
+
+server-->browser: HTTP 201 response
