@@ -1,0 +1,15 @@
+
+.top {
+  margin-top: 51px;
+}
+.country_div {
+  width: 500px
+}
+.country_div div{
+  display: inline-block;
+  
+}
+.country_div button {
+  display: inline-block;
+  margin-left: 3px;
+}
